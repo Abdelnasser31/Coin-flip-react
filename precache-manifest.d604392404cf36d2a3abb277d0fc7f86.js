@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aad34421cd5f7d4a38d921df6e1d5437",
+    "revision": "8ae4225bf53243e283115d2238067050",
     "url": "/Coin-flip-react/index.html"
   },
   {
-    "revision": "1a9dd3c8ca3a078a1f9f",
+    "revision": "aaefb665930913b22088",
     "url": "/Coin-flip-react/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Coin-flip-react/static/js/2.fcca00e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a9dd3c8ca3a078a1f9f",
-    "url": "/Coin-flip-react/static/js/main.0ba27ef8.chunk.js"
+    "revision": "aaefb665930913b22088",
+    "url": "/Coin-flip-react/static/js/main.6f5f259c.chunk.js"
   },
   {
     "revision": "0448598dd502b65ff632",

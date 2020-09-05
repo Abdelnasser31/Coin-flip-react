@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Coin-flip-react/precache-manifest.5c7475deccd36e78788cb0c921df7b16.js"
+  "/Coin-flip-react/precache-manifest.d604392404cf36d2a3abb277d0fc7f86.js"
 );
 
 self.addEventListener('message', (event) => {
