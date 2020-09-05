@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Coin-flip-react/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Coin-flip-react/static/js/main.6f5f259c.chunk.js",
-    "main.js.map": "/Coin-flip-react/static/js/main.6f5f259c.chunk.js.map",
+    "main.js": "/Coin-flip-react/static/js/main.52075b69.chunk.js",
+    "main.js.map": "/Coin-flip-react/static/js/main.52075b69.chunk.js.map",
     "runtime-main.js": "/Coin-flip-react/static/js/runtime-main.a1b6ff64.js",
     "runtime-main.js.map": "/Coin-flip-react/static/js/runtime-main.a1b6ff64.js.map",
     "static/js/2.fcca00e1.chunk.js": "/Coin-flip-react/static/js/2.fcca00e1.chunk.js",
     "static/js/2.fcca00e1.chunk.js.map": "/Coin-flip-react/static/js/2.fcca00e1.chunk.js.map",
     "index.html": "/Coin-flip-react/index.html",
-    "precache-manifest.d604392404cf36d2a3abb277d0fc7f86.js": "/Coin-flip-react/precache-manifest.d604392404cf36d2a3abb277d0fc7f86.js",
+    "precache-manifest.d7c240e482fecd00421f4d4b96b7a924.js": "/Coin-flip-react/precache-manifest.d7c240e482fecd00421f4d4b96b7a924.js",
     "service-worker.js": "/Coin-flip-react/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/Coin-flip-react/static/css/main.b100e6da.chunk.css.map",
     "static/js/2.fcca00e1.chunk.js.LICENSE.txt": "/Coin-flip-react/static/js/2.fcca00e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a1b6ff64.js",
     "static/js/2.fcca00e1.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.6f5f259c.chunk.js"
+    "static/js/main.52075b69.chunk.js"
   ]
 }
