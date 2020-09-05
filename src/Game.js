@@ -35,7 +35,7 @@ export default class Game extends Component {
         let result = `Out of ${this.state.attempts} flips,there have been ${this.state.totalHeads} heads and ${this.state.totalTails} tails.`
         return (
             <div>
-                <h1>Let's flip a coin!!!!</h1>
+                <h1>Let's flip a coin!!!!!!!</h1>
 
                {this.state.coinFace &&  <Coin info={this.state.coinFace}/>}
 
